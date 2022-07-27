@@ -2,7 +2,7 @@
 """
 Created on Fri Jun 17 17:32:49 2022
 
-@author: Lenovo
+@author: Rodney Buerkley
 """
 
 import pandas as pd
