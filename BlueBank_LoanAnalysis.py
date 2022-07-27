@@ -2,7 +2,7 @@
 """
 Created on Wed Jun 22 12:51:29 2022
 
-@author: Lenovo
+@author: Rodney Buerkley
 """
 
 #Importing libraries and files
