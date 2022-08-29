@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Wed Jun 22 12:51:29 2022
-
+A visualization of this project can be found at https://public.tableau.com/app/profile/rodney.buerkley/viz/BlueBankLoanAnalysis_16589269396020/BlueBankLoan
 @author: Rodney Buerkley
 """
 
