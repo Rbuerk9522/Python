@@ -1,3 +1,5 @@
+-- A dashboard for this data can be found at https://public.tableau.com/app/profile/rodney.buerkley/viz/HomeOfficeSalesAnalysis/Dashboard1
+
 -- Exploring the Data
 Select * From product;
 Select * From sales;
